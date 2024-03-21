@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Brand = () => {
     return (
-        <div className="flex flex-col md:flex-row md:items-center justify-center m-6">
+        <div className="flex flex-col md:flex-row md:items-center m-6">
             <div className="md:w-1/2 md:pr-10">
                 <h1 className="text-[#E16E4E] font-bold text-5xl leading-[64px] mb-2">About Brand</h1>
                 <p className="text-[#333333] font-normal text-lg leading-[32px]">
